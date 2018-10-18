@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trinity College</string>
+    <string name="m_10_n">Mather Hall&#10;Opening Time:</string>
+    <string name="cave"><![CDATA[The Cave&#10;Opening Time:]]></string>
+    <string name="the_bistro"><![CDATA[The Bistro&#10;Opening Time:]]></string>
+    <string name="comment">Comment</string>
+</resources>
